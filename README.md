@@ -3,5 +3,5 @@
 - ชื่อ ดรีม
 - บ้านเกิด จ.อุดรธานี
 - ชอบเธอ อารมณ์ดี
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](1.jpeg)
 Format: ![Alt Text](url)
